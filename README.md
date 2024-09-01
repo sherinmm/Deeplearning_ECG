@@ -11,5 +11,6 @@ sampling rate and simpler features. Thus, our proposed deep neural network algor
 signal classifications, such as those in arterial blood pressure (ABP), nerve conduction (EMG), and heart rate variability (HRV) studies.
 
 
-**Dataset** I used while implementing:** MIT-BIH Arrhythmia Database**
+**Dataset** I used while implementing:
+** MIT-BIH Arrhythmia Database**
 https://physionet.org/content/mitdb/1.0.0/
